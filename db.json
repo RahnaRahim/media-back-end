@@ -1,0 +1,41 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "rdx",
+      "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg?w=414",
+      "url": "https://www.youtube.com/watch?v=NJjDRnE-5_4?autoplay=1"
+    },
+    {
+      "id": "2",
+      "caption": "yu",
+      "thumbnail": "https://www.youtube.com/watch?v=cjzyfRvzCtI",
+      "url": "https://www.youtube.com/embed/cjzyfRvzCtI"
+    },
+    {
+      "id": "8",
+      "caption": "yu",
+      "thumbnail": "https://www.youtube.com/watch?v=cjzyfRvzCtI",
+      "url": "https://www.youtube.com/embed/cjzyfRvzCtI"
+    },
+    {
+      "id": "7",
+      "caption": "u8",
+      "thumbnail": "https://www.youtube.com/watch?v=cjzyfRvzCtI",
+      "url": "https://www.youtube.com/embed/cjzyfRvzCtI"
+    },
+    {
+      "id": "5",
+      "caption": "rdx",
+      "thumbnail": "https://www.youtube.com/watch?v=cjzyfRvzCtI",
+      "url": "https://www.youtube.com/embed/cjzyfRvzCtI"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "informative",
+      "allVideos": []
+    }
+  ]
+}
